@@ -1,1 +1,2 @@
 ### _1. ULTRASONIC SENSOR (HC-SR04) + LCD DISPLAY + BUZZER_
+[![ULTRASONIC SENSOR (HC-SR04) + LCD DISPLAY + BUZZER - ARDUINO](http://img.youtube.com/vi/sgeazQBOYPo/0.jpg)](https://www.youtube.com/watch?v=sgeazQBOYPo "ULTRASONIC SENSOR (HC-SR04) + LCD DISPLAY + BUZZER - ARDUINO")
