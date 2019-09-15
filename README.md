@@ -13,7 +13,7 @@
 #### _Software: MATLAB_
 [![MATLAB + ARDUINO + ULTRASONIC SENSOR (HC-SR04) + SERVO MOTOR](http://img.youtube.com/vi/P7SwC4Z7_Vw/0.jpg)](https://www.youtube.com/watch?v=P7SwC4Z7_Vw "MATLAB + ARDUINO + ULTRASONIC SENSOR (HC-SR04) + SERVO MOTOR")
 
-### _4. PYTHON GUI + DC MOTOR_
+### _4. PYTHON (pySerial) + DC MOTOR_
 #### _Hardware: Adafruit motor shield, Arduino board, DC motor, 1k ohm resistors (2), LEDs (2), hook-up wires and breadboard_
 #### _Software: Arduino IDE, PyCharm IDE_
 [![PYTHON (pySerial) + ARDUINO + DC MOTOR](http://img.youtube.com/vi/9xUVlkRJ1rU/0.jpg)](https://www.youtube.com/watch?v=9xUVlkRJ1rU
